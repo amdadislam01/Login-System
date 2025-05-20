@@ -21,4 +21,10 @@ A secure and responsive login authentication system with modern UI design.
 
 ## 📸 Screenshots
 
+## Sign Up
+
 <img src="https://i.imgur.com/BPZ1fub.png" width="900">
+
+##  Log in 
+
+<img src="https://i.imgur.com/UC1WDZA.png" width="900">
