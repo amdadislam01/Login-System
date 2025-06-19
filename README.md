@@ -11,7 +11,7 @@ A secure and responsive login authentication system with modern UI design.
 - Form validation
 - Responsive design
 - Error handling
-- Session management
+- Session management System 
 
 ## 🛠️ Tech Stack
 
