@@ -16,7 +16,7 @@ A secure and responsive login authentication system with modern UI design.
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,firebase" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,firebase" alt="Tech Stack" width="320px" />
 </p>
 
 ## 📸 Project Screenshots
