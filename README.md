@@ -23,7 +23,7 @@ A secure and responsive login authentication system with modern UI design.
 
 ## Sign Up
 
-<img src="https://i.imgur.com/BPZ1fub.png" width="900">
+<img src="https://ik.imagekit.io/yqnbhdlo4/Img/sing-up?updatedAt=1755010932401" width="900">
 
 ##  Log in 
 
