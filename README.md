@@ -32,7 +32,7 @@ A modern, full-featured login and registration system implementing industry-stan
 ## 🛠 Technical Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,firebase" alt="Technology Stack" width="350"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,github" alt="Technology Stack" width="350"/>
   <br>
   <em>Firebase-powered authentication backend</em>
 </p>
