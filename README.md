@@ -1,4 +1,4 @@
-# 🔐 Secure Authentication Syste
+# 🔐 Secure Authentication System
 
 A modern, full-featured login and registration system implementing industry-standard security practices with responsive design.
 
